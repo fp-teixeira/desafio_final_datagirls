@@ -14,7 +14,7 @@ Repositório dedicado a publicação do desafio final do bootcamp "[Re]Start 202
 O relatório, elaborado para o desafio final do [Re]start Bootcamp - Data Girls, analisa o mercado de trabalho em dados com base na pesquisa "State of Data Brazil 2023" gerado pela Data Hackers, a maior comunidade de dados do Brasil, e a Bain & Company, uma das principais consultorias de gestão global. A pesquisa identifica tendências, demanda por competências, oferta de profissionais, salários e evolução das funções na área. O objetivo desta análise é aplicar os conhecimentos adquiridos durante o bootcamp, contribuindo para a formação das participantes no setor de dados.
 
 #
-#Desenvolvimento da análise:
+# Desenvolvimento da análise:
 Para realização desta análise, foram utilizadas as seguintes ferramentas:
 * Python;
 * Google Colab; e
